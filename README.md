@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Mahjabin Obayed
 
-<!--
-**mobayed2430526-netizen/mobayed2430526-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Student** | 💻 **Aspiring Developer** | 🚀 **Always Learning**
 
-Here are some ideas to get you started:
+I'm a Computer Science student who enjoys turning ideas into code, exploring new technologies, and building things that make what I learn practical.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- 💻 C / C++
+- 🗄️ SQL & Database Management
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+- 📊 Data Structures & Algorithms
+
+## 🌱 Currently Learning
+
+I'm currently strengthening my programming fundamentals, exploring software development, and working on projects to turn ideas into real applications.
+
+## 🚀 Projects
+
+Here you'll find my personal projects, academic work, and team collaborations — each one representing something I've learned or built along the way.
+
+## 📌 What You'll Find Here
+
+- 🎓 Academic & personal projects
+- 🤝 Team collaborations
+- 💻 Programming practice
+- 🧪 Experiments & new ideas
+- 📚 My journey as a CSE student
+
+## 📫 Let's Connect
+
+I'm always open to learning, collaborating, and building something interesting.
+
+---
+
+⭐ *Learning, building, and improving — one commit at a time.*
